@@ -1,4 +1,4 @@
-Certainly! Let's simplify that:
+
 
 ### 1. What is Azure?
 Azure is Microsoft's online service that lets you store data, run software, and use other computing services over the internet instead of keeping them on your own computer.
